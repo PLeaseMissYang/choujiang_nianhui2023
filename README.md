@@ -5,4 +5,4 @@ Demo of 2023 Annual Meeting Lucky Draw
 
 适用浏览器：Chrome、FireFox、360、搜狗、Opera、傲游. 不支持Windows版Safari、IE8及以下浏览器。
 
-![捕获](C:\Users\chensy\Pictures\Saved Pictures\捕获.PNG)
+![抽奖截图](.\style\抽奖截图.PNG)
